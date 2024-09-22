@@ -19,6 +19,7 @@ background: #1E0843;
 
 .sidebar a {
 display: flex;
+width:50px;
 height: 50px;
 padding: 10px;
 flex-direction: column;
