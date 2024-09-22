@@ -34,6 +34,8 @@ background: #45237A;
 
 .sidebar a i {
 color: #fff;
+width:20px;
+font-size:20px;
 }
 
 .dm-bar {
